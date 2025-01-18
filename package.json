@@ -12,7 +12,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "https://yasmeenq.github.io/portfolio/",
+  "homepage": "https://yasmeenq.github.io/portfolio2/",
 
   "dependencies": {
     "@formspree/react": "^2.4.1",
